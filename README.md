@@ -21,15 +21,16 @@ json-server --watch plates.json --port 3200
 
 <img width="592" alt="Screen Shot 2022-07-30 at 3 31 59 AM" src="https://user-images.githubusercontent.com/37974483/181865194-f3ac59fb-f0be-4569-b7cd-c77833178fc4.png">
 
-5.	To run the code in dev environment use this command: npm run start-dev
-6.  To open documentation add this part to base url "swagger/#/" ex: "http://localhost:4000/swagger/#/"
+5. To install dependecies run this command: npm install
+6.	To run the code in dev environment use this command: npm run start-dev
+7.  To open documentation add this part to base url "swagger/#/" ex: "http://localhost:4000/swagger/#/"
 
 ```
 http://localhost:4000/swagger/#/
 ```
 
 <img width="1508" alt="Screen Shot 2022-07-30 at 3 35 35 AM" src="https://user-images.githubusercontent.com/37974483/181865284-d1271293-cfcf-4794-a33e-20b12c8024d4.png">
-7. To delete all products and reset cart please user reset-cart API
+8. To delete all products and reset cart please user reset-cart API
 
 <img width="1508" alt="Screen Shot 2022-07-30 at 3 37 44 AM" src="https://user-images.githubusercontent.com/37974483/181865338-e9502350-92b1-456b-acaa-5ac12263c243.png">
 
