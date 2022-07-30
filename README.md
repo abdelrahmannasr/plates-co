@@ -14,16 +14,23 @@ Please, follow the following steps to start using the service:
 json-server --watch plates.json --port 3200
 ```
    - If you see “Watcdhing …”, it means it’s up and running.
+   
    <img width="592" alt="Screen Shot 2022-07-30 at 3 29 32 AM" src="https://user-images.githubusercontent.com/37974483/181865152-2fd7fb8f-0599-466f-a98a-53c6b6e0ec38.png">
+   
 4. Verify the mocked API. Now if you go to http://localhost:3002/article in browser, you’ll get following result
+
 <img width="592" alt="Screen Shot 2022-07-30 at 3 31 59 AM" src="https://user-images.githubusercontent.com/37974483/181865194-f3ac59fb-f0be-4569-b7cd-c77833178fc4.png">
+
 5.	To run the code in dev environment use this command: npm run start-dev
 6.  To open documentation add this part to base url "swagger/#/" ex: "http://localhost:4000/swagger/#/"
+
 ```
 http://localhost:4000/swagger/#/
 ```
+
 <img width="1508" alt="Screen Shot 2022-07-30 at 3 35 35 AM" src="https://user-images.githubusercontent.com/37974483/181865284-d1271293-cfcf-4794-a33e-20b12c8024d4.png">
 7. To delete all products and reset cart please user reset-cart API
+
 <img width="1508" alt="Screen Shot 2022-07-30 at 3 37 44 AM" src="https://user-images.githubusercontent.com/37974483/181865338-e9502350-92b1-456b-acaa-5ac12263c243.png">
 
 # About this service
