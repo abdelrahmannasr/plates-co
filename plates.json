@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Red Plate",
+      "code": "R01",
+      "price": "32.95"
+    },
+    {
+      "id": 2,
+      "product": "Green Plate",
+      "code": "G01",
+      "price": "24.95"
+    },
+    {
+      "id": 3,
+      "product": "Blue Plate",
+      "code": "B01",
+      "price": "7.95"
+    }
+  ],
+  "Cart": {
+    "id": 1,
+    "products": [
+      {
+        "id": 3,
+        "product": "Blue Plate",
+        "code": "B01",
+        "price": "7.95"
+      },
+      {
+        "id": 3,
+        "product": "Blue Plate",
+        "code": "B01",
+        "price": "7.95"
+      },
+      {
+        "id": 1,
+        "product": "Red Plate",
+        "code": "R01",
+        "price": "32.95"
+      },
+      {
+        "id": 1,
+        "product": "Red Plate",
+        "code": "R01",
+        "price": 16.475
+      },
+      {
+        "id": 1,
+        "product": "Red Plate",
+        "code": "R01",
+        "price": "32.95"
+      }
+    ],
+    "eligibleToDiscount": true,
+    "totalProductsPrice": 98.275,
+    "deliveryRate": 0,
+    "totalPrice": "98.28$"
+  }
+}
